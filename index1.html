@@ -1,0 +1,214 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Asad Ullah Khan Portfolio</title>
+  <!-- Tailwind via CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            indigobg: '#0f1724',
+            tealaccent: '#2dd4bf'
+          }
+        }
+      }
+    }
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/lucide@1.0.0/dist/lucide.min.js"></script>
+  <style>
+    .profile-placeholder {
+      background: linear-gradient(135deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));
+      border: 1px solid rgba(255,255,255,0.03);
+    }
+  </style>
+</head>
+<body class="bg-indigobg text-gray-200 antialiased leading-relaxed">
+
+  <!-- Header / Navigation -->
+  <header class="fixed top-0 left-0 right-0 z-40 bg-black/30 backdrop-blur-md border-b border-white/5">
+    <div class="max-w-5xl mx-auto px-6 py-3 flex items-center justify-between">
+      <div class="flex items-center gap-3">
+        <div class="text-tealaccent font-semibold text-lg">Asad Ullah Khan</div>
+        <div class="hidden sm:block text-sm text-gray-400">Data Analyst & Aspiring AI/ML Engineer</div>
+      </div>
+      <nav class="space-x-4">
+        <a href="#home" class="nav-link px-3 py-2 rounded-xl text-sm hover:scale-105 transition-transform">Home</a>
+        <a href="#skills" class="nav-link px-3 py-2 rounded-xl text-sm hover:scale-105 transition-transform">Skills</a>
+        <a href="#projects" class="nav-link px-3 py-2 rounded-xl text-sm hover:scale-105 transition-transform">Projects</a>
+        <a href="#contact" class="nav-link px-3 py-2 rounded-xl text-sm hover:scale-105 transition-transform">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="pt-20">
+    <!-- Hero -->
+    <section id="home" class="max-w-5xl mx-auto px-6 py-12">
+      <div class="grid md:grid-cols-2 gap-8 items-center">
+        <div>
+          <h1 class="text-4xl sm:text-5xl font-extrabold leading-tight">Data Analyst & Aspiring AI/ML Engineer</h1>
+          <p class="mt-4 text-gray-300 max-w-xl">Transforming data into insights using Python and efficient code. I specialize in data analysis, machine learning models, and building clean, scalable solutions.</p>
+          <div class="mt-6 flex gap-4">
+            <a href="#projects" class="inline-flex items-center gap-2 px-5 py-3 rounded-xl bg-tealaccent text-indigobg font-semibold shadow-md transform hover:scale-105 transition">
+              View My Work
+              <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"/>
+              </svg>
+            </a>
+            <a href="#contact" class="inline-flex items-center gap-2 px-5 py-3 rounded-xl border border-white/6 text-sm hover:bg-white/2 transition">
+              Get in touch
+            </a>
+          </div>
+        </div>
+        <div class="flex justify-center md:justify-end">
+          <div class="w-44 h-44 rounded-full profile-placeholder flex items-center justify-center shadow-xl">
+            <svg xmlns="http://www.w3.org/2000/svg" class="w-16 h-16 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zM6 20v-1a4 4 0 014-4h4a4 4 0 014 4v1"/>
+            </svg>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- About -->
+    <section id="about" class="max-w-5xl mx-auto px-6 py-8">
+      <div class="bg-black/30 border border-white/5 rounded-xl p-6 shadow-md">
+        <h2 class="text-2xl font-bold">About Me</h2>
+        <p class="mt-3 text-gray-300 max-w-3xl">I am a dedicated Data Analyst with experience in Python, data manipulation, and visualization. I have built machine learning models like a Movie Recommendation System and managed datasets such as student databases. My approach combines analytical rigor with practical coding skills to deliver insights and solutions efficiently.</p>
+      </div>
+    </section>
+
+    <!-- Skills & Expertise -->
+    <section id="skills" class="max-w-5xl mx-auto px-6 py-8">
+      <h2 class="text-2xl font-bold">Skills & Expertise</h2>
+      <p class="text-gray-400 mt-2">Focused tracks: Data Analysis / Python and Web Development.</p>
+      <div class="mt-6 grid gap-6 md:grid-cols-2">
+        <!-- Data Science Column -->
+        <div class="bg-black/30 border border-white/5 rounded-xl p-6 shadow-md">
+          <h3 class="font-semibold text-lg">Data Analysis / Python</h3>
+          <p class="text-gray-400 text-sm mt-1">Tools and libraries I use for analysis, visualization and machine learning.</p>
+          <div class="mt-4 grid grid-cols-2 gap-3">
+            <div class="skill-card flex items-center gap-3 p-3 rounded-xl bg-white/2 hover:scale-105 transition transform">
+              <i data-lucide="terminal" class="w-6 h-6 text-tealaccent"></i>
+              <div><div class="font-medium">Python</div><div class="text-xs text-gray-400">Main language</div></div>
+            </div>
+            <div class="skill-card flex items-center gap-3 p-3 rounded-xl bg-white/2 hover:scale-105 transition transform">
+              <i data-lucide="cpu" class="w-6 h-6 text-tealaccent"></i>
+              <div><div class="font-medium">NumPy</div><div class="text-xs text-gray-400">Numerical ops</div></div>
+            </div>
+            <div class="skill-card flex items-center gap-3 p-3 rounded-xl bg-white/2 hover:scale-105 transition transform">
+              <i data-lucide="database" class="w-6 h-6 text-tealaccent"></i>
+              <div><div class="font-medium">Pandas</div><div class="text-xs text-gray-400">Data manipulation</div></div>
+            </div>
+            <div class="skill-card flex items-center gap-3 p-3 rounded-xl bg-white/2 hover:scale-105 transition transform">
+              <i data-lucide="bar-chart-2" class="w-6 h-6 text-tealaccent"></i>
+              <div><div class="font-medium">Matplotlib</div><div class="text-xs text-gray-400">Data viz</div></div>
+            </div>
+            <div class="skill-card col-span-2 flex items-center gap-3 p-3 rounded-xl bg-white/2 hover:scale-105 transition transform">
+              <i data-lucide="layers" class="w-6 h-6 text-tealaccent"></i>
+              <div><div class="font-medium">Scikit-learn</div><div class="text-xs text-gray-400">Machine learning</div></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Web Development Column -->
+        <div class="bg-black/30 border border-white/5 rounded-xl p-6 shadow-md">
+          <h3 class="font-semibold text-lg">Web Development</h3>
+          <p class="text-gray-400 text-sm mt-1">Front-end & small back-end stacks I work with.</p>
+          <div class="mt-4 grid grid-cols-2 gap-3">
+            <div class="skill-card flex items-center gap-3 p-3 rounded-xl bg-white/2 hover:scale-105 transition transform">
+              <i data-lucide="file-text" class="w-6 h-6 text-tealaccent"></i>
+              <div><div class="font-medium">HTML</div><div class="text-xs text-gray-400">Markup</div></div>
+            </div>
+            <div class="skill-card flex items-center gap-3 p-3 rounded-xl bg-white/2 hover:scale-105 transition transform">
+              <i data-lucide="feather" class="w-6 h-6 text-tealaccent"></i>
+              <div><div class="font-medium">CSS</div><div class="text-xs text-gray-400">Tailwind-friendly</div></div>
+            </div>
+            <div class="skill-card flex items-center gap-3 p-3 rounded-xl bg-white/2 hover:scale-105 transition transform">
+              <i data-lucide="javascript" class="w-6 h-6 text-tealaccent"></i>
+              <div><div class="font-medium">JavaScript</div><div class="text-xs text-gray-400">Interactive UIs</div></div>
+            </div>
+            <div class="skill-card flex items-center gap-3 p-3 rounded-xl bg-white/2 hover:scale-105 transition transform">
+              <i data-lucide="git-branch" class="w-6 h-6 text-tealaccent"></i>
+              <div><div class="font-medium">Version Control</div><div class="text-xs text-gray-400">Git / GitHub</div></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Projects -->
+    <section id="projects" class="max-w-5xl mx-auto px-6 py-8">
+      <h2 class="text-2xl font-bold">Projects</h2>
+      <p class="text-gray-400 mt-2">Selected work (real projects).</p>
+      <div class="mt-6 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+        <article class="p-4 rounded-xl bg-white/3 border border-white/6 shadow transform hover:scale-105 transition">
+          <h4 class="font-semibold">Movie Recommendation Model</h4>
+          <p class="text-sm text-gray-300 mt-2">Built a personalized movie recommendation system using Python and machine learning to suggest movies based on user preferences.</p>
+          <a href="https://github.com/Asad27phytonprojects" target="_blank" class="inline-block mt-3 px-4 py-2 rounded-xl bg-tealaccent text-indigobg font-medium hover:scale-105 transition">View Code</a>
+        </article>
+        <article class="p-4 rounded-xl bg-white/3 border border-white/6 shadow transform hover:scale-105 transition">
+          <h4 class="font-semibold">Student Database</h4>
+          <p class="text-sm text-gray-300 mt-2">Created a structured student database with Python and SQL, enabling efficient data storage, retrieval, and basic analysis.</p>
+          <a href="https://github.com/Asad27phytonprojects" target="_blank" class="inline-block mt-3 px-4 py-2 rounded-xl bg-tealaccent text-indigobg font-medium hover:scale-105 transition">View Code</a>
+        </article>
+      </div>
+    </section>
+
+    <!-- Contact -->
+    <section id="contact" class="max-w-5xl mx-auto px-6 py-8">
+      <div class="bg-black/30 border border-white/5 rounded-xl p-6 shadow-md">
+        <h2 class="text-2xl font-bold">Contact</h2>
+        <p class="text-gray-300 mt-3">
+          Interested in working together? Reach out via email or follow me on social platforms.
+        </p>
+        <div class="mt-6 flex flex-col sm:flex-row gap-4 items-start sm:items-center">
+          <!-- Email Button -->
+          <a href="mailto:asadullahhan27@gmail.com" 
+             class="px-5 py-3 rounded-xl bg-tealaccent text-indigobg font-medium hover:bg-teal-500 hover:scale-105 transition duration-300">
+            Email Me: asadullahhan27@gmail.com
+          </a>
+          <!-- Social Icons -->
+          <div class="flex gap-3 items-center mt-4 sm:mt-0">
+            <a href="https://github.com/Asad27phytonprojects" target="_blank" 
+               class="p-3 rounded-xl bg-white/5 hover:bg-white/10 hover:scale-110 transition duration-300" aria-label="GitHub">
+              <i data-lucide="github" class="w-6 h-6 text-tealaccent"></i>
+            </a>
+            <a href="https://www.linkedin.com/in/asad-khan-10932b335/" target="_blank" 
+               class="p-3 rounded-xl bg-white/5 hover:bg-white/10 hover:scale-110 transition duration-300" aria-label="LinkedIn">
+              <i data-lucide="linkedin" class="w-6 h-6 text-tealaccent"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="mt-12 pb-12 text-center text-sm text-gray-500">
+      <div class="max-w-5xl mx-auto px-6">© Asad Ullah Khan — Built with care • All rights reserved.</div>
+    </footer>
+  </main>
+
+  <script>
+    // Smooth scrolling for internal links
+    document.querySelectorAll('a[href^="#"]').forEach(link => {
+      link.addEventListener('click', (e) => {
+        const targetId = link.getAttribute('href').slice(1);
+        if (!targetId) return;
+        const el = document.getElementById(targetId);
+        if (el) {
+          e.preventDefault();
+          el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+      });
+    });
+    // Initialize Lucide icons
+    if (window.lucide) {
+      window.addEventListener('load', () => lucide.createIcons());
+    }
+  </script>
+</body>
+</html>
