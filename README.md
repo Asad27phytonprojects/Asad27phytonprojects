@@ -2,7 +2,7 @@
 
 **Junior Data Analyst | Aspiring AI & ML Developer | Web Enthusiast**
 
-Welcome to my GitHub! I’m a BScS student with a love for computers, tech, and creating things that actually work. I started exploring computers when I was 7, and since then, coding and problem-solving have been my world.  
+Welcome to my GitHub! I’m a BScS student with a love for computers, tech, and creating things that actually work. I started exploring computers at 7, and since then, coding and problem-solving have become my world.  
 
 ---
 
@@ -40,16 +40,16 @@ Welcome to my GitHub! I’m a BScS student with a love for computers, tech, and 
 ## 🔹 Featured Projects
 | Project | Description | Link |
 |---------|-------------|------|
-| **Portfolio Website** | My personal website showcasing projects and skills | [Visit]((https://asad27phytonprojects.github.io/Portfolio-/)) |
+| **Portfolio Website** | My personal website showcasing projects and skills | [Visit](https://asad27phytonprojects.github.io/Portfolio/) |
 | **Data Analysis Projects** | Python projects analyzing datasets using Pandas & NumPy | [GitHub](https://github.com/Asad27phytonprojects?tab=repositories) |
 | **AI/ML Experiments** | Small AI & ML experiments and automation scripts | [GitHub](https://github.com/Asad27phytonprojects?tab=repositories) |
 
 ---
 
 ## 🔹 Contact Me
-- ✉️ **Email:** asadullahhan27@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/asad-khan-10932b335](https://www.linkedin.com/in/asad-khan-10932b335/)  
-- 🐙 **GitHub:** [github.com/Asad27phytonprojects](https://github.com/Asad27phytonprojects)
+[![Email](https://img.shields.io/badge/Email-asadullahhan27@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asadullahhan27@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asad-khan-10932b335/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Asad27phytonprojects)
 
 ---
 
@@ -62,4 +62,3 @@ If you want to collaborate, learn together, or just check out my projects—you�
 
 ### GitHub Stats
 ![Asadullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asad27phytonprojects&show_icons=true&theme=radical)
-
