@@ -40,7 +40,7 @@ Welcome to my GitHub! I’m a BScS student with a love for computers, tech, and 
 ## 🔹 Featured Projects
 | Project | Description | Link |
 |---------|-------------|------|
-| **Portfolio Website** | My personal website showcasing projects and skills | [Visit]([https://asad27phytonprojects.github.io/Asad27phytonprojects/](https://asad27phytonprojects.github.io/Portfolio-/)) |
+| **Portfolio Website** | My personal website showcasing projects and skills | [Visit]((https://asad27phytonprojects.github.io/Portfolio-/)) |
 | **Data Analysis Projects** | Python projects analyzing datasets using Pandas & NumPy | [GitHub](https://github.com/Asad27phytonprojects?tab=repositories) |
 | **AI/ML Experiments** | Small AI & ML experiments and automation scripts | [GitHub](https://github.com/Asad27phytonprojects?tab=repositories) |
 
