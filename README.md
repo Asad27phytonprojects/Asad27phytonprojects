@@ -26,32 +26,30 @@ I'm a BS Computer Science student who enjoys figuring out how things work and th
 ## Skills & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
----
 
 ## Featured Projects
 
 | Project | Description | Link |
 |---|---|---|
-| **Portfolio Website** | Personal site showcasing my projects and background | [Visit](https://asad27phytonprojects.github.io/Portfolio/) |
 | **Project Collection** | A range of Python and web-based projects, built to solve specific problems | [GitHub](https://github.com/Asad27phytonprojects?tab=repositories) |
 
 ---
+
+## Certifications
+
+Introduction to Computer Science — Cisco Networking Academy
+Networking Basics — Cisco Networking Academy
+Microsoft Azure Fundamentals (Cloud)
+A few other free certifications along the way, mostly to build a foundation across different areas
 
 ## Contact
 
 [![Email](https://img.shields.io/badge/Email-asadullahhan27@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asadullahhan27@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asad-khan-10932b335/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Asad27phytonprojects)
-
----
 
 ## Where I'm Headed
 
