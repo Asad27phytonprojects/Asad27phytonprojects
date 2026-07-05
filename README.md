@@ -9,7 +9,7 @@ I'm a BS Computer Science student who enjoys figuring out how things work and th
 ## About Me
 
 - Studying Computer Science, with interests spanning several areas of the field
-- Comfortable working with **Python, JavaScript**, and picking up new tools as a project needs them
+- Comfortable working with **Python**, and picking up new tools as a project needs them
 - Like taking on a problem, working through it methodically, and seeing it through to something that actually works
 - Learn best by building — most of what I know came from a project, not a course
 
