@@ -41,8 +41,9 @@ I'm a BS Computer Science student who enjoys figuring out how things work and th
 
 ## Certifications
 
-Introduction to Computer Science — Cisco Networking Academy
-Networking Basics — Cisco Networking Academy
+Introduction to Computer Science
+Cisco Networking Academy Networking Basics 
+Cisco Networking Academy
 Microsoft Azure Fundamentals (Cloud)
 A few other free certifications along the way, mostly to build a foundation across different areas
 
