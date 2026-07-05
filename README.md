@@ -1,30 +1,29 @@
-# Hey there, I’m Asadullah Khan 👋
+# Hi, I'm Asadullah Khan 👋
 
-**Junior Data Analyst | Aspiring AI & ML Developer | Web Enthusiast**
+**Computer Science Student | Problem Solver | Builder of Projects**
 
-Welcome to my GitHub! I’m a BScS student with a love for computers, tech, and creating things that actually work. I started exploring computers at 7, and since then, coding and problem-solving have become my world.  
-
----
-
-## 🔹 About Me
-- 🎯 **Current Role:** Junior Data Analyst  
-- 💻 Experienced with **Python, NumPy, Pandas, and data visualization**  
-- 🌐 Can build interactive websites using **HTML, CSS, JavaScript**  
-- 🤖 Passionate about **AI & Machine Learning** and learning every day  
-- 📚 I love experimenting, building projects, and learning new tech on my own  
-- 🌌 Sometimes I take a break by watching the night sky and thinking of new projects  
+I'm a BS Computer Science student who enjoys figuring out how things work and then building something useful with that understanding. I got into computers early, around age 7, and that curiosity turned into a habit of coding, breaking things, and fixing them again.
 
 ---
 
-## 🔹 What I Do
-- 📊 **Data Analysis:** Collect, clean, and visualize data to find insights  
-- 🌐 **Web Development:** Build clean, functional websites and small web apps  
-- 🤖 **AI/ML Exploration:** Test models, automation, and predictive systems  
-- 📂 **Portfolio Projects:** Keep all my projects in one place for easy access  
+## About Me
+
+- Studying Computer Science, with interests spanning several areas of the field
+- Comfortable working with **Python, JavaScript**, and picking up new tools as a project needs them
+- Like taking on a problem, working through it methodically, and seeing it through to something that actually works
+- Learn best by building — most of what I know came from a project, not a course
 
 ---
 
-## 🔹 Skills & Tools
+## What I Work On
+
+- **Problem Solving** — breaking down problems and building working solutions from scratch
+- **Web Development** — small, functional websites and web apps
+- **Projects** — a mix of coursework, self-taught experiments, and things I built out of curiosity
+
+---
+
+## Skills & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -37,26 +36,28 @@ Welcome to my GitHub! I’m a BScS student with a love for computers, tech, and 
 
 ---
 
-## 🔹 Featured Projects
+## Featured Projects
+
 | Project | Description | Link |
-|---------|-------------|------|
-| **Portfolio Website** | My personal website showcasing projects and skills | [Visit](https://asad27phytonprojects.github.io/Portfolio/) |
-| **Data Analysis Projects** | Python projects analyzing datasets using Pandas & NumPy | [GitHub](https://github.com/Asad27phytonprojects?tab=repositories) |
-| **AI/ML Experiments** | Small AI & ML experiments and automation scripts | [GitHub](https://github.com/Asad27phytonprojects?tab=repositories) |
+|---|---|---|
+| **Portfolio Website** | Personal site showcasing my projects and background | [Visit](https://asad27phytonprojects.github.io/Portfolio/) |
+| **Project Collection** | A range of Python and web-based projects, built to solve specific problems | [GitHub](https://github.com/Asad27phytonprojects?tab=repositories) |
 
 ---
 
-## 🔹 Contact Me
+## Contact
+
 [![Email](https://img.shields.io/badge/Email-asadullahhan27@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asadullahhan27@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asad-khan-10932b335/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Asad27phytonprojects)
 
 ---
 
-## 🔹 My Goal
-I’m currently a **Junior Data Analyst**, but my eyes are set on **AI & Machine Learning**. My goal is to keep learning, building projects, and growing into a developer who can combine **data, AI, and web** to make useful things.  
+## Where I'm Headed
 
-If you want to collaborate, learn together, or just check out my projects—you’re in the right place!  
+I'm still figuring out exactly where I'll specialize, and I'm okay with that — right now the focus is on learning broadly, solving real problems, and shipping projects that actually work.
+
+Feel free to look through my projects, reach out, or suggest something worth building together.
 
 ---
 
